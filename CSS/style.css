@@ -220,6 +220,7 @@ body {
     padding: 0 40px;
     align-items: self-start;
 
+
 }
 
 .skills_card {
@@ -316,6 +317,8 @@ body {
     grid-template-columns: repeat(auto-fit, 450px);
     justify-content: center;
     gap: 25px;
+    padding: 0 20px;
+
 
 }
 
