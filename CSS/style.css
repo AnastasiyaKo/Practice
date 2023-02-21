@@ -219,6 +219,7 @@ body {
     grid-column-gap: 80px;
     padding: 0 40px;
     align-items: self-start;
+    justify-items: center;
 
 
 }
@@ -318,7 +319,6 @@ body {
     justify-content: center;
     gap: 25px;
     padding: 0 20px;
-
 
 }
 
